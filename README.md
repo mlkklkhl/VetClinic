@@ -50,6 +50,4 @@ The database schema is defined in the `db_schema.sql` file and includes the foll
 This project is licensed under the ISC License.
 
 ## Contributor
-<a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="[https://contrib.rocks/image?repo=OWNER/REPO](https://github.com/mlkklkhl)" />
-</a>
+![Contributor](https://avatars.githubusercontent.com/mlkklkhl?s=100)
