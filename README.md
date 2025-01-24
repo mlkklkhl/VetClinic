@@ -47,7 +47,9 @@ The database schema is defined in the `db_schema.sql` file and includes the foll
 - MySQL
 
 ### Initialize project
-```npm init -y```
+```
+npm init -y
+```
 
 ### Install dependencies
 #### For your vet clinic project, you’ll need [express] for the server and [mysql] for database connectivity.
@@ -56,17 +58,23 @@ The database schema is defined in the `db_schema.sql` file and includes the foll
 
 #### (Optional) Install nodemon for development
 #### To make development easier, you can install [nodemon], which automatically restarts your server when file changes are detected
-```npm install --save-dev nodemon```
+```
+npm install --save-dev nodemon
+```
 
 #### Update package.json for nodemon
 #### Manually edit package.json to include "dev" script
-```"scripts": {
+```
+"scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
-}```
+}
+```
 
 ### Start server
-```npm run dev```
+```
+npm run dev
+```
 
 ## License
 This project is licensed under the ISC License.
