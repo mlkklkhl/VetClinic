@@ -1,0 +1,5 @@
+﻿id,name,phone,username,password,image
+1,John Doe,555-0123,johndoe,password123,uploads\johndoe.jpg
+2,Jane Smith,555-0456,janesmith,password456,uploads\janesmith.jpg
+3,Bob Johnson,555-0789,bobjohnson,password789,uploads\bobjohnson.jpg
+4,Alice Brown,555-1234,alicebrown,password321,uploads\alicebrown.jpg

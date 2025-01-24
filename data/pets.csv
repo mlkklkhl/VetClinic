@@ -1,0 +1,11 @@
+﻿id,owner_id,name,image,dob,type,breed
+1,1,Buddy,uploads\buddy.jpg,2020-04-15,dog,Labrador
+2,1,Kitty,uploads\kitty.jpg,2019-06-25,cat,Siamese
+3,2,Charlie,uploads\charlie.jpg,2018-07-10,dog,Beagle
+4,2,Luna,uploads\luna.jpg,2021-02-20,cat,Persian
+5,3,Rex,uploads\rex.jpg,2020-01-12,dog,German Shepherd
+6,3,Oliver,uploads\oliver.jpg,2019-11-15,cat,British Shorthair
+7,4,Milo,uploads\milo.jpg,2022-08-05,dog,Poodle
+8,4,Chloe,uploads\chloe.jpg,2021-09-14,cat,Maine Coon
+9,1,Teddy,uploads\teddy.jpg,2023-03-30,dog,Bulldog
+10,2,Bella,uploads\bella.jpg,2021-12-01,cat,Tabby
