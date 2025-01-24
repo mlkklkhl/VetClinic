@@ -1,4 +1,4 @@
-# VVet Clinic Appointment System
+# Vet Clinic Appointment System
 This repository is learning material for course Web Dev, COEAI, WU
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
